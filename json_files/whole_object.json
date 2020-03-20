@@ -1,0 +1,532 @@
+{{
+ "loyaltyMember": {
+      "loyaltyMemberId": "2339754760",
+      "carrierCode": "DL",
+      "personName": {
+        "namePrefixCode": "Mr",
+        "firstName": "Ed",
+        "middleName": "Null",
+        "lastName": "Testacct",
+        "nameSuffixCode": null,
+        "preferredName": null
+      },
+      "loyaltyMemberAccount": {
+        "enrollmentStartLocalDate": "2000-12-13",
+        "accountStatusCode": "OP",
+        "membershipStatusCode": "AC",
+        "accountTypeCode": "T",
+        "birthDate": "1984-03-25",
+        "genderCode": "M",
+        "privacyCode": "04",
+        "languageCode": "ENG",
+        "loyaltyMemberEligibility": {
+          "payWithMilesEligibleCode": "D",
+          "mqmGiftEligible": false,
+          "mmGiftEligible": false,
+          "cbGiftEligible": false,
+          "premiumPassenger": true,
+          "promotionCode": null,
+          "promotionEligible": false
+        },
+        "emergencyContact": null,
+        "loyaltyMemberBalance": {
+          "totalProgarmMileCnt": "034595423",
+          "availableMileCnt": "028695557",
+          "totalMqmMileCnt": "000219234"
+        }
+      },
+      "userSecurity": null,
+      "loyaltyMemberCorporateAccounts": null,
+      "loyaltyMemberTierLevels": [
+        {
+          "tierClassificationCode": "MB",
+          "tierLevelCode": "GM",
+          "tierLevelCodeDesc": "Gold Medallion",
+          "tierLevelStartLocalDate": "2014-03-01",
+          "tierLevelEndLocalDate": "2079-12-31"
+        }
+      ],
+      "loungeContracts": null,
+      "salesAffiliations": [
+        {
+          "affiliationTypeCode": "CRAM",
+          "affiliationTypeDesc": "Corporate Rewards - Aeromexico",
+          "affiliationStartLocalDate": "2019-06-28",
+          "affiliationEndLocalDate": "2079-12-31",
+          "affiliationId": "970001483",
+          "affiliationSequenceNum": "0001",
+          "affiliationTierLevelCode": null,
+          "affiliationCompanyTypeCode": null
+        }
+      ],
+      "creditCardAffiliations": [
+        {
+          "affiliationTypeCode": "AXCV",
+          "affiliationTypeDesc": "Delta SkyMiles Reserve Card Member",
+          "affiliationStartLocalDate": "2010-06-16",
+          "affiliationEndLocalDate": "2079-06-15",
+          "affiliationId": "370100000000000",
+          "affiliationSequenceNum": "0001",
+          "affiliationTierLevelCode": null,
+          "affiliationCompanyTypeCode": null
+        },
+        {
+          "affiliationTypeCode": "AXBV",
+          "affiliationTypeDesc": "Delta SkyMiles Reserve Business Card",
+          "affiliationStartLocalDate": "2007-08-05",
+          "affiliationEndLocalDate": "2079-12-31",
+          "affiliationId": "850099991299",
+          "affiliationSequenceNum": "0001",
+          "affiliationTierLevelCode": null,
+          "affiliationCompanyTypeCode": null
+        },
+        {
+          "affiliationTypeCode": "AXCG",
+          "affiliationTypeDesc": "Delta SkyMiles Gold Card Member",
+          "affiliationStartLocalDate": "2015-12-01",
+          "affiliationEndLocalDate": "2079-12-31",
+          "affiliationId": "12347",
+          "affiliationSequenceNum": "0001",
+          "affiliationTierLevelCode": null,
+          "affiliationCompanyTypeCode": null
+        }
+      ],
+      "loyaltyProgramAffiliations": [
+        {
+          "affiliationTypeCode": "SLG3",
+          "affiliationTypeDesc": "GOL Airlines/Smiles",
+          "affiliationStartLocalDate": "2017-09-21",
+          "affiliationEndLocalDate": "2079-12-31",
+          "affiliationId": "87867867",
+          "affiliationSequenceNum": "0001",
+          "affiliationTierLevelCode": null,
+          "affiliationCompanyTypeCode": "AIR"
+        },
+        {
+          "affiliationTypeCode": "FBAF",
+          "affiliationTypeDesc": "Air France/Flying Blue",
+          "affiliationStartLocalDate": "2017-10-18",
+          "affiliationEndLocalDate": "2079-12-31",
+          "affiliationId": "2323432343",
+          "affiliationSequenceNum": "0001",
+          "affiliationTierLevelCode": null,
+          "affiliationCompanyTypeCode": "AIR"
+        },
+        {
+          "affiliationTypeCode": "CPAM",
+          "affiliationTypeDesc": "Aeromexico/Club Premier",
+          "affiliationStartLocalDate": "2017-12-07",
+          "affiliationEndLocalDate": "2079-12-31",
+          "affiliationId": "123456678",
+          "affiliationSequenceNum": "0001",
+          "affiliationTierLevelCode": null,
+          "affiliationCompanyTypeCode": "AIR"
+        },
+        {
+          "affiliationTypeCode": "BPSU",
+          "affiliationTypeDesc": "Aeroflot/Bonus Program",
+          "affiliationStartLocalDate": "2017-06-15",
+          "affiliationEndLocalDate": "2079-12-31",
+          "affiliationId": "3652521",
+          "affiliationSequenceNum": "0001",
+          "affiliationTierLevelCode": null,
+          "affiliationCompanyTypeCode": "AIR"
+        },
+        {
+          "affiliationTypeCode": "FBKL",
+          "affiliationTypeDesc": "KLM/Flying Blue",
+          "affiliationStartLocalDate": "2018-09-19",
+          "affiliationEndLocalDate": "2079-12-31",
+          "affiliationId": "2323432343",
+          "affiliationSequenceNum": "0001",
+          "affiliationTierLevelCode": null,
+          "affiliationCompanyTypeCode": "AIR"
+        },
+        {
+          "affiliationTypeCode": "ECMF",
+          "affiliationTypeDesc": "Xiamen Airlines/Egret Club",
+          "affiliationStartLocalDate": "2018-03-26",
+          "affiliationEndLocalDate": "2079-12-31",
+          "affiliationId": "4047736230",
+          "affiliationSequenceNum": "0001",
+          "affiliationTierLevelCode": null,
+          "affiliationCompanyTypeCode": "AIR"
+        },
+        {
+          "affiliationTypeCode": "DPJN",
+          "affiliationTypeDesc": "Delta Private Jets",
+          "affiliationStartLocalDate": "2019-11-07",
+          "affiliationEndLocalDate": "2079-12-31",
+          "affiliationId": "HJ94205283255",
+          "affiliationSequenceNum": "0001",
+          "affiliationTierLevelCode": null,
+          "affiliationCompanyTypeCode": "AIR"
+        }
+      ],
+      "addresses": [
+        {
+          "addressLine1Text": "Delta St 1",
+          "addressLine2Text": null,
+          "countryCode": "US",
+          "districtTownName": null,
+          "cityLocalityName": "Atl",
+          "prefectureLocationName": null,
+          "postalCode": "30354",
+          "countrySubdivisionCode": "GA",
+          "businessName": "Delta Airlines",
+          "contactPointCode": "B",
+          "primaryAddress": true,
+          "addressSequenceNum": "0772",
+          "addressStartLocalDate": "2019-11-18",
+          "addressAliasName": null
+        },
+        {
+          "addressLine1Text": "4956 Leisure Drive",
+          "addressLine2Text": null,
+          "countryCode": "US",
+          "districtTownName": null,
+          "cityLocalityName": "Dunwoody",
+          "prefectureLocationName": null,
+          "postalCode": "30338",
+          "countrySubdivisionCode": "GA",
+          "businessName": null,
+          "contactPointCode": "H",
+          "primaryAddress": false,
+          "addressSequenceNum": "0771",
+          "addressStartLocalDate": "2019-09-24",
+          "addressAliasName": null
+        },
+        {
+          "addressLine1Text": "Cross Street",
+          "addressLine2Text": null,
+          "countryCode": "US",
+          "districtTownName": null,
+          "cityLocalityName": "Alabama",
+          "prefectureLocationName": null,
+          "postalCode": "35222",
+          "countrySubdivisionCode": "AL",
+          "businessName": null,
+          "contactPointCode": "H",
+          "primaryAddress": false,
+          "addressSequenceNum": "0776",
+          "addressStartLocalDate": "2019-11-20",
+          "addressAliasName": null
+        },
+        {
+          "addressLine1Text": "Main Street",
+          "addressLine2Text": null,
+          "countryCode": "US",
+          "districtTownName": null,
+          "cityLocalityName": "Newyork",
+          "prefectureLocationName": null,
+          "postalCode": "10001",
+          "countrySubdivisionCode": "NY",
+          "businessName": null,
+          "contactPointCode": "H",
+          "primaryAddress": false,
+          "addressSequenceNum": "0775",
+          "addressStartLocalDate": "2019-11-20",
+          "addressAliasName": null
+        },
+        {
+          "addressLine1Text": "Lane One",
+          "addressLine2Text": null,
+          "countryCode": "US",
+          "districtTownName": null,
+          "cityLocalityName": "Adgern",
+          "prefectureLocationName": null,
+          "postalCode": "35006",
+          "countrySubdivisionCode": "AL",
+          "businessName": null,
+          "contactPointCode": "H",
+          "primaryAddress": false,
+          "addressSequenceNum": "0774",
+          "addressStartLocalDate": "2019-11-20",
+          "addressAliasName": null
+        },
+        {
+          "addressLine1Text": "1030 Delta Blvd",
+          "addressLine2Text": "Dept 68012",
+          "countryCode": "US",
+          "districtTownName": null,
+          "cityLocalityName": "Atlanta",
+          "prefectureLocationName": null,
+          "postalCode": "30353",
+          "countrySubdivisionCode": "GA",
+          "businessName": null,
+          "contactPointCode": "H",
+          "primaryAddress": false,
+          "addressSequenceNum": "0766",
+          "addressStartLocalDate": "2019-10-09",
+          "addressAliasName": null
+        }
+      ],
+      "emailAccounts": [
+        {
+          "emailAdr": "mary.topritzhofer@delta.com",
+          "contactPointCode": "O",
+          "primaryEmail": true,
+          "emailSequenceNum": "1150",
+          "emailFormatTypeCode": "H",
+          "invalidEmailAdr": false,
+          "emailInterests": null
+        },
+        {
+          "emailAdr": "test@delta.com",
+          "contactPointCode": "H",
+          "primaryEmail": false,
+          "emailSequenceNum": "1152",
+          "emailFormatTypeCode": "H",
+          "invalidEmailAdr": false,
+          "emailInterests": null
+        },
+        {
+          "emailAdr": "test@delta.com",
+          "contactPointCode": "O",
+          "primaryEmail": false,
+          "emailSequenceNum": "1146",
+          "emailFormatTypeCode": "H",
+          "invalidEmailAdr": false,
+          "emailInterests": [
+            {
+              "interestTypeCode": "FAR",
+              "interestTypeDesc": "Fare Sales"
+            },
+            {
+              "interestTypeCode": "PRT",
+              "interestTypeDesc": "Partner Emails"
+            },
+            {
+              "interestTypeCode": "SMT",
+              "interestTypeDesc": "SkyMiles Statement"
+            },
+            {
+              "interestTypeCode": "SPO",
+              "interestTypeDesc": "SkyMiles Offers"
+            },
+            {
+              "interestTypeCode": "TNP",
+              "interestTypeDesc": "Surveys"
+            }
+          ]
+        },
+        {
+          "emailAdr": "test@delta.com",
+          "contactPointCode": "O",
+          "primaryEmail": false,
+          "emailSequenceNum": "1149",
+          "emailFormatTypeCode": "H",
+          "invalidEmailAdr": false,
+          "emailInterests": null
+        },
+        {
+          "emailAdr": "test@delta.com",
+          "contactPointCode": "H",
+          "primaryEmail": false,
+          "emailSequenceNum": "1038",
+          "emailFormatTypeCode": "H",
+          "invalidEmailAdr": false,
+          "emailInterests": null
+        }
+      ],
+      "phones": [
+        {
+          "countryCode": "US",
+          "countryCallingCode": "1",
+          "phoneAreaNum": "404",
+          "phoneNum": "9999999999",
+          "phoneExtentionNum": null,
+          "contactPointCode": "H",
+          "phoneContactMethodCode": "C",
+          "primaryPhone": false,
+          "phoneSequenceNum": "1154"
+        },
+        {
+          "countryCode": "US",
+          "countryCallingCode": "1",
+          "phoneAreaNum": "404",
+          "phoneNum": "9999999999",
+          "phoneExtentionNum": null,
+          "contactPointCode": "H",
+          "phoneContactMethodCode": "V",
+          "primaryPhone": false,
+          "phoneSequenceNum": "1151"
+        },
+        {
+          "countryCode": "US",
+          "countryCallingCode": "1",
+          "phoneAreaNum": "404",
+          "phoneNum": "9999999999",
+          "phoneExtentionNum": null,
+          "contactPointCode": "H",
+          "phoneContactMethodCode": "C",
+          "primaryPhone": false,
+          "phoneSequenceNum": "1139"
+        },
+        {
+          "countryCode": "US",
+          "countryCallingCode": "1",
+          "phoneAreaNum": "404",
+          "phoneNum": "9999999999",
+          "phoneExtentionNum": null,
+          "contactPointCode": "B",
+          "phoneContactMethodCode": "C",
+          "primaryPhone": false,
+          "phoneSequenceNum": "1094"
+        },
+        {
+          "countryCode": "BD",
+          "countryCallingCode": "880",
+          "phoneAreaNum": "92",
+          "phoneNum": "9999999999",
+          "phoneExtentionNum": null,
+          "contactPointCode": "H",
+          "phoneContactMethodCode": "C",
+          "primaryPhone": false,
+          "phoneSequenceNum": "1148"
+        }
+      ],
+      "paymentCardPreferences": [
+        {
+          "paymentCard": {
+            "tokenizedCardNum": "37101Q0MNOP0000",
+            "cardDiscontinueDate": "2022-10-31",
+            "paymentCardTypeCode": "AX",
+            "cardHolderName": "Qa Silver Testacct",
+            "paymentCardLast4Num": "000",
+            "billingAdr": {
+              "addressLine1Text": null,
+              "addressLine2Text": null,
+              "countryCode": null,
+              "districtTownName": null,
+              "cityLocalityName": null,
+              "prefectureLocationName": null,
+              "postalCode": null,
+              "countrySubdivisionCode": null,
+              "businessName": null,
+              "contactPointCode": null,
+              "primaryAddress": null,
+              "addressSequenceNum": "0776",
+              "addressStartLocalDate": null,
+              "addressAliasName": null
+            }
+          },
+          "preferenceSequenceNum": "0001",
+          "defaultCard": false,
+          "paymentCardAliasName": "HOME",
+          "contactPointCode": null,
+          "previousPurchaseVerification": true
+        },
+        {
+          "paymentCard": {
+            "tokenizedCardNum": "41111R1DEFGH1111",
+            "cardDiscontinueDate": "2022-01-31",
+            "paymentCardTypeCode": "VI",
+            "cardHolderName": "Ed Testacct",
+            "paymentCardLast4Num": "1111",
+            "billingAdr": {
+              "addressLine1Text": null,
+              "addressLine2Text": null,
+              "countryCode": null,
+              "districtTownName": null,
+              "cityLocalityName": null,
+              "prefectureLocationName": null,
+              "postalCode": null,
+              "countrySubdivisionCode": null,
+              "businessName": null,
+              "contactPointCode": null,
+              "primaryAddress": null,
+              "addressSequenceNum": null,
+              "addressStartLocalDate": null,
+              "addressAliasName": null
+            }
+          },
+          "preferenceSequenceNum": "0010",
+          "defaultCard": false,
+          "paymentCardAliasName": null,
+          "contactPointCode": null,
+          "previousPurchaseVerification": false
+        }
+      ],
+      "loyaltyMemberPreferences": [
+        {
+          "preferenceCategoryId": "02",
+          "preferenceCategoryIdDesc": "Seat Preference",
+          "preferenceCode": "W",
+          "preferenceCodeDesc": "Window",
+          "preferenceAdditionalText": null,
+          "preferenceSequenceNum": "0001"
+        },
+        {
+          "preferenceCategoryId": "14",
+          "preferenceCategoryIdDesc": "Business Owner",
+          "preferenceCode": "N",
+          "preferenceCodeDesc": "Business Owner Opt-out",
+          "preferenceAdditionalText": null,
+          "preferenceSequenceNum": "0001"
+        },
+        {
+          "preferenceCategoryId": "04",
+          "preferenceCategoryIdDesc": "International seating preferen",
+          "preferenceCode": "W",
+          "preferenceCodeDesc": "Window",
+          "preferenceAdditionalText": null,
+          "preferenceSequenceNum": "0001"
+        },
+        {
+          "preferenceCategoryId": "06",
+          "preferenceCategoryIdDesc": "INTERNATIONAL MEAL",
+          "preferenceCode": "LFML",
+          "preferenceCodeDesc": "LOW CALORIE/CHOLESTEROL/FAT",
+          "preferenceAdditionalText": null,
+          "preferenceSequenceNum": "0001"
+        },
+        {
+          "preferenceCategoryId": "08",
+          "preferenceCategoryIdDesc": "Special Service Request",
+          "preferenceCode": "WCHC",
+          "preferenceCodeDesc": "WHEELCHAIR PSGR IMMOBILE",
+          "preferenceAdditionalText": null,
+          "preferenceSequenceNum": "0001"
+        },
+        {
+          "preferenceCategoryId": "08",
+          "preferenceCategoryIdDesc": "Special Service Request",
+          "preferenceCode": "DEAF",
+          "preferenceCodeDesc": "DEAF OR HARD OF HEARING",
+          "preferenceAdditionalText": null,
+          "preferenceSequenceNum": "0001"
+        }
+      ],
+      "cabinUpgradePreferences": [
+        {
+          "preferenceCategoryId": "12",
+          "preferenceCategoryIdDesc": "Comfort+ Upgrade Preference",
+          "preferenceCode": "N",
+          "preferenceCodeDesc": "Opt-out",
+          "preferenceAdditionalText": null,
+          "preferenceSequenceNum": "0001",
+          "seatPreferences": null
+        },
+        {
+          "preferenceCategoryId": "13",
+          "preferenceCategoryIdDesc": "First/DeltaOne Upgrade Pref",
+          "preferenceCode": "N",
+          "preferenceCodeDesc": "Opt-out",
+          "preferenceAdditionalText": null,
+          "preferenceSequenceNum": "0001",
+          "seatPreferences": null
+        },
+        {
+          "preferenceCategoryId": "21",
+          "preferenceCategoryIdDesc": "Premium Select Upgrade Pref",
+          "preferenceCode": "Y",
+          "preferenceCodeDesc": "Opt-In",
+          "preferenceAdditionalText": null,
+          "preferenceSequenceNum": null,
+          "seatPreferences": null
+        }
+      ]
+    }
+	}
+}

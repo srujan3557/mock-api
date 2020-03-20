@@ -1,0 +1,33 @@
+"paymentCardPreferences":[
+            {
+               "paymentCard":{
+                  "tokenizedCardNum":"41477R1DEFGH5557",
+                  "cardDiscontinueDate":"2017-01-31",
+                  "paymentCardTypeCode":"VI",
+                  "cardHolderName":null,
+                  "paymentCardLast4Num":"5557",
+                  "billingAdr":{
+                     "addressLine1Text":null,
+                     "addressLine2Text":null,
+                     "countryCode":null,
+                     "districtTownName":null,
+                     "cityLocalityName":null,
+                     "prefectureLocationName":null,
+                     "postalCode":null,
+                     "countrySubdivisionCode":null,
+                     "businessName":null,
+                     "contactPointCode":null,
+                     "primaryAddress":null,
+                     "addressSequenceNum":"0007",
+                     "addressStartLocalDate":null,
+                     "addressAliasName":null
+                  }
+               },
+               "preferenceSequenceNum":"0001",
+               "defaultCard":false,
+               "paymentCardAliasName":null,
+               "contactPointCode":null,
+               "previousPurchaseVerification":true
+            },
+            
+         ]

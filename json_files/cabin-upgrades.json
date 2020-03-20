@@ -1,0 +1,11 @@
+"cabinUpgradePreferences":[
+            {
+               "preferenceCategoryId":"12",
+               "preferenceCategoryIdDesc":"Comfort+ Upgrade Preference",
+               "preferenceCode":"Y",
+               "preferenceCodeDesc":"Opt-in",
+               "preferenceAdditionalText":null,
+               "preferenceSequenceNum":"0001",
+               "seatPreferences":null
+            },
+		]

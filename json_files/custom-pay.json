@@ -1,0 +1,8 @@
+{this.loyaltyCustomer = {
+  loyaltyMemberId: loyaltyMemberId,
+  personName: true,
+  addresses: true,
+  loyaltyMemberAccount: true,
+  emailAccounts: true
+};
+}

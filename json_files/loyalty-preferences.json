@@ -1,0 +1,11 @@
+"loyaltyMemberPreferences":[
+            {
+               "preferenceCategoryId":"02",
+               "preferenceCategoryIdDesc":"Seat Preference",
+               "preferenceCode":"W",
+               "preferenceCodeDesc":"Window",
+               "preferenceAdditionalText":null,
+               "preferenceSequenceNum":"0001"
+            },
+         ]
+

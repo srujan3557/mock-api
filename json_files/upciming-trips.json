@@ -1,0 +1,1607 @@
+{
+  "hasErrors": "false",
+  "errorList": null,
+  "omniProObject": {
+    "customerId": "6507883236",
+    "upcomingTripsTotalCount": 4,
+    "todaysTripsTotalCount": 1,
+    "pageSize": 2,
+    "upcomingTrips": [
+      {
+        "bookingIdentifier": [
+          {
+            "recordLocatorId": "G3JJ8R",
+            "bookingCreationDate": "07NOV",
+            "todayTrip": false,
+            "nextFlightLeavingXHrs": 53,
+            "nextFlightLeavingXDays": 2,
+            "seqNum": null,
+            "ssrCount": 1,
+            "otherAirlinesAvailable": false
+          }
+        ],
+        "passengerItinerarySegments": [
+          {
+            "segmentNum": 1,
+            "marketingFlightSegment": {
+              "carrierCode": "DL",
+              "flightNum": 665
+            },
+            "flightSegmentId": {
+              "operatingCarrierCode": "DL",
+              "operatingFlightNum": 665,
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "MSP",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "BOS",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "marketingCarrierCode": "DL",
+              "marketingFlightNum": 665,
+              "departureDate": "2019-12-04"
+            },
+            "schedules": {
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "MSP",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "BOS",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "departureLocalTs": "2019-12-04T20:19:00Z",
+              "arrivalLocalTs": "2019-12-05T00:09:00Z"
+            },
+            "flightLegs": [
+              {
+                "flightLegId": {
+                  "operatingCarrierCode": "DL",
+                  "operatingFlightNum": 665,
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "MSP",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "BOS",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "marketingCarrierCode": "DL",
+                  "marketingFlightNum": 665,
+                  "departureDate": "2019-12-04"
+                },
+                "schedules": {
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "MSP",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "Terminal 1",
+                    "gateId": "F5"
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "BOS",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "Terminal A",
+                    "gateId": "A19"
+                  },
+                  "departureLocalTs": "2019-12-04T20:19:00Z",
+                  "arrivalLocalTs": "2019-12-05T00:09:00Z"
+                },
+                "actuals": {
+                  "departureLocalTs": "2019-12-04T20:19:00Z",
+                  "arrivalLocalTs": "2019-12-05T00:09:00Z",
+                  "arrivalDelayMinuteCnt": 0,
+                  "departureDelayMinuteCnt": 0
+                },
+                "departureDelay": {
+                  "delayDesc": null,
+                  "totalDelayMinuteCnt": 0,
+                  "primaryReason": null,
+                  "firstAlternateReason": null,
+                  "secondAlternateReason": null
+                },
+                "cancellation": null,
+                "isCancelled": null,
+                "isDelayed": null,
+                "isDiverted": null,
+                "isReturned": null,
+                "isflightArrived": false,
+                "latestFlightAdvisoryMessageText": null,
+                "tripCompanionInfo": [
+                  {
+                    "name": "STEPHEN NEWMAN OESTERLE",
+                    "nameNumber": "01",
+                    "lastNameNumber": "01",
+                    "ticketNumber": "0062405791495",
+                    "customerAccountType": "MM/DM",
+                    "skyMilesNumber": "6507883236",
+                    "tripStatus": "HOOKED",
+                    "brandPurchased": null,
+                    "brandUpgraded": null,
+                    "upgradeType": null,
+                    "seatNum": "01D",
+                    "ssrTrip": []
+                  }
+                ],
+                "ssrTrip": [
+                  {
+                    "code": "CTCE",
+                    "remarks": [
+                      "/SNOESTERLE603//GMAIL.COM"
+                    ],
+                    "status": "HK"
+                  }
+                ],
+                "brandRq": {
+                  "flightSegment": [
+                    {
+                      "originAirportCode": "MSP",
+                      "destAirportCode": "BOS",
+                      "schedDepartLocalTs": "2019-12-04T00:00:00",
+                      "operatingFlightNum": "665",
+                      "operatingCos": "Z",
+                      "marketingFlightNum": "665",
+                      "marketingCos": "Z",
+                      "marketingCarrier": {
+                        "code": "DL",
+                        "name": null,
+                        "connectionCarrier": null
+                      }
+                    }
+                  ],
+                  "customer": null
+                },
+                "flightStatus": {
+                  "statusDesc": "On Time",
+                  "statusColorCode": "GREEN",
+                  "leavinginXMinutes": null,
+                  "delayTime": null
+                },
+                "layOverTime": "0h 0m",
+                "flightInfo": {
+                  "durationTime": "02h 50m",
+                  "carrierTypeCode": "Airbus A321 Passenger"
+                }
+              }
+            ],
+            "flightDistance": "1124",
+            "leavingInXDays": "2",
+            "segmentStatus": "HK"
+          }
+        ]
+      },
+      {
+        "bookingIdentifier": [
+          {
+            "recordLocatorId": "GZH9RY",
+            "bookingCreationDate": "15OCT",
+            "todayTrip": false,
+            "nextFlightLeavingXHrs": 76,
+            "nextFlightLeavingXDays": 3,
+            "seqNum": null,
+            "ssrCount": 1,
+            "otherAirlinesAvailable": false
+          }
+        ],
+        "passengerItinerarySegments": [
+          {
+            "segmentNum": 1,
+            "marketingFlightSegment": {
+              "carrierCode": "DL",
+              "flightNum": 1931
+            },
+            "flightSegmentId": {
+              "operatingCarrierCode": "DL",
+              "operatingFlightNum": 1931,
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "BOS",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "JFK",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "marketingCarrierCode": "DL",
+              "marketingFlightNum": 1931,
+              "departureDate": "2019-12-05"
+            },
+            "schedules": {
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "BOS",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "JFK",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "departureLocalTs": "2019-12-05T19:23:00Z",
+              "arrivalLocalTs": "2019-12-05T20:50:00Z"
+            },
+            "flightLegs": [
+              {
+                "flightLegId": {
+                  "operatingCarrierCode": "DL",
+                  "operatingFlightNum": 1931,
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "BOS",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "JFK",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "marketingCarrierCode": "DL",
+                  "marketingFlightNum": 1931,
+                  "departureDate": "2019-12-05"
+                },
+                "schedules": {
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "BOS",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "Terminal A",
+                    "gateId": "A5"
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "JFK",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "",
+                    "gateId": "C68"
+                  },
+                  "departureLocalTs": "2019-12-05T19:23:00Z",
+                  "arrivalLocalTs": "2019-12-05T20:50:00Z"
+                },
+                "actuals": {
+                  "departureLocalTs": "2019-12-05T19:23:00Z",
+                  "arrivalLocalTs": "2019-12-05T20:50:00Z",
+                  "arrivalDelayMinuteCnt": 0,
+                  "departureDelayMinuteCnt": 0
+                },
+                "departureDelay": {
+                  "delayDesc": null,
+                  "totalDelayMinuteCnt": 0,
+                  "primaryReason": null,
+                  "firstAlternateReason": null,
+                  "secondAlternateReason": null
+                },
+                "cancellation": null,
+                "isCancelled": null,
+                "isDelayed": null,
+                "isDiverted": null,
+                "isReturned": null,
+                "isflightArrived": false,
+                "latestFlightAdvisoryMessageText": null,
+                "tripCompanionInfo": [
+                  {
+                    "name": "STEPHEN NEWMAN OESTERLE",
+                    "nameNumber": "01",
+                    "lastNameNumber": "01",
+                    "ticketNumber": "0062402077534",
+                    "customerAccountType": "MM/DM",
+                    "skyMilesNumber": "6507883236",
+                    "tripStatus": "HOOKED",
+                    "brandPurchased": null,
+                    "brandUpgraded": null,
+                    "upgradeType": null,
+                    "seatNum": "01D",
+                    "ssrTrip": []
+                  }
+                ],
+                "ssrTrip": [
+                  {
+                    "code": "PCTC",
+                    "remarks": [
+                      "*/1-OESTERLE/2-STEPHENNEWMAN/4-OESTERLE",
+                      "*/5-ADRIENNE/6-US/7-6126851484"
+                    ],
+                    "status": "HK"
+                  }
+                ],
+                "brandRq": {
+                  "flightSegment": [
+                    {
+                      "originAirportCode": "BOS",
+                      "destAirportCode": "JFK",
+                      "schedDepartLocalTs": "2019-12-05T00:00:00",
+                      "operatingFlightNum": "1931",
+                      "operatingCos": "I",
+                      "marketingFlightNum": "1931",
+                      "marketingCos": "I",
+                      "marketingCarrier": {
+                        "code": "DL",
+                        "name": null,
+                        "connectionCarrier": null
+                      }
+                    }
+                  ],
+                  "customer": null
+                },
+                "flightStatus": {
+                  "statusDesc": "On Time",
+                  "statusColorCode": "GREEN",
+                  "leavinginXMinutes": null,
+                  "delayTime": null
+                },
+                "layOverTime": "0h 0m",
+                "flightInfo": {
+                  "durationTime": "01h 27m",
+                  "carrierTypeCode": "Airbus A220-100"
+                }
+              }
+            ],
+            "flightDistance": "200",
+            "leavingInXDays": "3",
+            "arnkSegment": {
+              "arnkIndicator": false,
+              "arrivalPoint": null,
+              "departurePoint": null
+            },
+            "segmentStatus": "HK"
+          },
+          {
+            "segmentNum": 2,
+            "marketingFlightSegment": {
+              "carrierCode": "DL",
+              "flightNum": 468
+            },
+            "flightSegmentId": {
+              "operatingCarrierCode": "DL",
+              "operatingFlightNum": 468,
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "JFK",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "TLV",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "marketingCarrierCode": "DL",
+              "marketingFlightNum": 468,
+              "departureDate": "2019-12-05"
+            },
+            "schedules": {
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "JFK",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "TLV",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "departureLocalTs": "2019-12-05T23:15:00Z",
+              "arrivalLocalTs": "2019-12-06T17:05:00Z"
+            },
+            "flightLegs": [
+              {
+                "flightLegId": {
+                  "operatingCarrierCode": "DL",
+                  "operatingFlightNum": 468,
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "JFK",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "TLV",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "marketingCarrierCode": "DL",
+                  "marketingFlightNum": 468,
+                  "departureDate": "2019-12-05"
+                },
+                "schedules": {
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "JFK",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "",
+                    "gateId": "B41"
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "TLV",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "Terminal 3 (International)",
+                    "gateId": ""
+                  },
+                  "departureLocalTs": "2019-12-05T23:15:00Z",
+                  "arrivalLocalTs": "2019-12-06T17:05:00Z"
+                },
+                "actuals": {
+                  "departureLocalTs": "2019-12-05T23:15:00Z",
+                  "arrivalLocalTs": "2019-12-06T17:05:00Z",
+                  "arrivalDelayMinuteCnt": 0,
+                  "departureDelayMinuteCnt": 0
+                },
+                "departureDelay": {
+                  "delayDesc": null,
+                  "totalDelayMinuteCnt": 0,
+                  "primaryReason": null,
+                  "firstAlternateReason": null,
+                  "secondAlternateReason": null
+                },
+                "cancellation": null,
+                "isCancelled": null,
+                "isDelayed": null,
+                "isDiverted": null,
+                "isReturned": null,
+                "isflightArrived": false,
+                "latestFlightAdvisoryMessageText": null,
+                "tripCompanionInfo": [
+                  {
+                    "name": "STEPHEN NEWMAN OESTERLE",
+                    "nameNumber": "01",
+                    "lastNameNumber": "01",
+                    "ticketNumber": "0062402077534",
+                    "customerAccountType": "MM/DM",
+                    "skyMilesNumber": "6507883236",
+                    "tripStatus": "HOOKED",
+                    "brandPurchased": null,
+                    "brandUpgraded": null,
+                    "upgradeType": null,
+                    "seatNum": "08A",
+                    "ssrTrip": []
+                  }
+                ],
+                "ssrTrip": [
+                  {
+                    "code": "PCTC",
+                    "remarks": [
+                      "*/1-OESTERLE/2-STEPHENNEWMAN/4-OESTERLE",
+                      "*/5-ADRIENNE/6-US/7-6126851484"
+                    ],
+                    "status": "HK"
+                  }
+                ],
+                "brandRq": {
+                  "flightSegment": [
+                    {
+                      "originAirportCode": "JFK",
+                      "destAirportCode": "TLV",
+                      "schedDepartLocalTs": "2019-12-05T00:00:00",
+                      "operatingFlightNum": "468",
+                      "operatingCos": "I",
+                      "marketingFlightNum": "468",
+                      "marketingCos": "I",
+                      "marketingCarrier": {
+                        "code": "DL",
+                        "name": null,
+                        "connectionCarrier": null
+                      }
+                    }
+                  ],
+                  "customer": null
+                },
+                "flightStatus": {
+                  "statusDesc": "On Time",
+                  "statusColorCode": "GREEN",
+                  "leavinginXMinutes": null,
+                  "delayTime": null
+                },
+                "layOverTime": "0h 0m",
+                "flightInfo": {
+                  "durationTime": "10h 50m",
+                  "carrierTypeCode": "Airbus A330-300 Passenger"
+                }
+              }
+            ],
+            "flightDistance": "5676",
+            "leavingInXDays": "3",
+            "arnkSegment": {
+              "arnkIndicator": false,
+              "arrivalPoint": null,
+              "departurePoint": null
+            },
+            "segmentStatus": "HK"
+          },
+          {
+            "segmentNum": 3,
+            "marketingFlightSegment": {
+              "carrierCode": "DL",
+              "flightNum": 469
+            },
+            "flightSegmentId": {
+              "operatingCarrierCode": "DL",
+              "operatingFlightNum": 469,
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "TLV",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "JFK",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "marketingCarrierCode": "DL",
+              "marketingFlightNum": 469,
+              "departureDate": "2019-12-12"
+            },
+            "schedules": {
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "TLV",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "JFK",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "departureLocalTs": "2019-12-12T23:45:00Z",
+              "arrivalLocalTs": "2019-12-13T05:28:00Z"
+            },
+            "flightLegs": [
+              {
+                "flightLegId": {
+                  "operatingCarrierCode": "DL",
+                  "operatingFlightNum": 469,
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "TLV",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "JFK",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "marketingCarrierCode": "DL",
+                  "marketingFlightNum": 469,
+                  "departureDate": "2019-12-12"
+                },
+                "schedules": {
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "TLV",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "Terminal 3 (International)",
+                    "gateId": ""
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "JFK",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "Terminal 4",
+                    "gateId": ""
+                  },
+                  "departureLocalTs": "2019-12-12T23:45:00Z",
+                  "arrivalLocalTs": "2019-12-13T05:28:00Z"
+                },
+                "actuals": {
+                  "departureLocalTs": "2019-12-12T23:45:00Z",
+                  "arrivalLocalTs": "2019-12-13T05:28:00Z",
+                  "arrivalDelayMinuteCnt": 0,
+                  "departureDelayMinuteCnt": 0
+                },
+                "departureDelay": {
+                  "delayDesc": null,
+                  "totalDelayMinuteCnt": 0,
+                  "primaryReason": null,
+                  "firstAlternateReason": null,
+                  "secondAlternateReason": null
+                },
+                "cancellation": null,
+                "isCancelled": null,
+                "isDelayed": null,
+                "isDiverted": null,
+                "isReturned": null,
+                "isflightArrived": false,
+                "latestFlightAdvisoryMessageText": null,
+                "tripCompanionInfo": [
+                  {
+                    "name": "STEPHEN NEWMAN OESTERLE",
+                    "nameNumber": "01",
+                    "lastNameNumber": "01",
+                    "ticketNumber": "0062402077534",
+                    "customerAccountType": "MM/DM",
+                    "skyMilesNumber": "6507883236",
+                    "tripStatus": "HOOKED",
+                    "brandPurchased": null,
+                    "brandUpgraded": null,
+                    "upgradeType": null,
+                    "seatNum": "08A",
+                    "ssrTrip": []
+                  }
+                ],
+                "ssrTrip": [
+                  {
+                    "code": "PCTC",
+                    "remarks": [
+                      "*/1-OESTERLE/2-STEPHENNEWMAN/4-OESTERLE",
+                      "*/5-ADRIENNE/6-US/7-6126851484"
+                    ],
+                    "status": "HK"
+                  }
+                ],
+                "brandRq": {
+                  "flightSegment": [
+                    {
+                      "originAirportCode": "TLV",
+                      "destAirportCode": "JFK",
+                      "schedDepartLocalTs": "2019-12-12T00:00:00",
+                      "operatingFlightNum": "469",
+                      "operatingCos": "I",
+                      "marketingFlightNum": "469",
+                      "marketingCos": "I",
+                      "marketingCarrier": {
+                        "code": "DL",
+                        "name": null,
+                        "connectionCarrier": null
+                      }
+                    }
+                  ],
+                  "customer": null
+                },
+                "flightStatus": {
+                  "statusDesc": "On Time",
+                  "statusColorCode": "GREEN",
+                  "leavinginXMinutes": null,
+                  "delayTime": null
+                },
+                "layOverTime": "0h 0m",
+                "flightInfo": {
+                  "durationTime": "12h 43m",
+                  "carrierTypeCode": "Airbus A330-300 Passenger"
+                }
+              }
+            ],
+            "flightDistance": "5660",
+            "leavingInXDays": "10",
+            "arnkSegment": {
+              "arnkIndicator": false,
+              "arrivalPoint": null,
+              "departurePoint": null
+            },
+            "segmentStatus": "HK"
+          },
+          {
+            "segmentNum": 4,
+            "marketingFlightSegment": {
+              "carrierCode": "DL",
+              "flightNum": 1531
+            },
+            "flightSegmentId": {
+              "operatingCarrierCode": "DL",
+              "operatingFlightNum": 1531,
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "JFK",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "BOS",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "marketingCarrierCode": "DL",
+              "marketingFlightNum": 1531,
+              "departureDate": "2019-12-13"
+            },
+            "schedules": {
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "JFK",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "BOS",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "departureLocalTs": "2019-12-13T07:00:00Z",
+              "arrivalLocalTs": "2019-12-13T08:21:00Z"
+            },
+            "flightLegs": [
+              {
+                "flightLegId": {
+                  "operatingCarrierCode": "DL",
+                  "operatingFlightNum": 1531,
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "JFK",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "BOS",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "marketingCarrierCode": "DL",
+                  "marketingFlightNum": 1531,
+                  "departureDate": "2019-12-13"
+                },
+                "schedules": {
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "JFK",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "Terminal 4",
+                    "gateId": ""
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "BOS",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "Terminal A",
+                    "gateId": ""
+                  },
+                  "departureLocalTs": "2019-12-13T07:00:00Z",
+                  "arrivalLocalTs": "2019-12-13T08:21:00Z"
+                },
+                "actuals": {
+                  "departureLocalTs": "2019-12-13T07:00:00Z",
+                  "arrivalLocalTs": "2019-12-13T08:21:00Z",
+                  "arrivalDelayMinuteCnt": 0,
+                  "departureDelayMinuteCnt": 0
+                },
+                "departureDelay": {
+                  "delayDesc": null,
+                  "totalDelayMinuteCnt": 0,
+                  "primaryReason": null,
+                  "firstAlternateReason": null,
+                  "secondAlternateReason": null
+                },
+                "cancellation": null,
+                "isCancelled": null,
+                "isDelayed": null,
+                "isDiverted": null,
+                "isReturned": null,
+                "isflightArrived": false,
+                "latestFlightAdvisoryMessageText": null,
+                "tripCompanionInfo": [
+                  {
+                    "name": "STEPHEN NEWMAN OESTERLE",
+                    "nameNumber": "01",
+                    "lastNameNumber": "01",
+                    "ticketNumber": "0062402077534",
+                    "customerAccountType": "MM/DM",
+                    "skyMilesNumber": "6507883236",
+                    "tripStatus": "HOOKED",
+                    "brandPurchased": null,
+                    "brandUpgraded": null,
+                    "upgradeType": null,
+                    "seatNum": "01D",
+                    "ssrTrip": []
+                  }
+                ],
+                "ssrTrip": [
+                  {
+                    "code": "PCTC",
+                    "remarks": [
+                      "*/1-OESTERLE/2-STEPHENNEWMAN/4-OESTERLE",
+                      "*/5-ADRIENNE/6-US/7-6126851484"
+                    ],
+                    "status": "HK"
+                  }
+                ],
+                "brandRq": {
+                  "flightSegment": [
+                    {
+                      "originAirportCode": "JFK",
+                      "destAirportCode": "BOS",
+                      "schedDepartLocalTs": "2019-12-13T00:00:00",
+                      "operatingFlightNum": "1531",
+                      "operatingCos": "I",
+                      "marketingFlightNum": "1531",
+                      "marketingCos": "I",
+                      "marketingCarrier": {
+                        "code": "DL",
+                        "name": null,
+                        "connectionCarrier": null
+                      }
+                    }
+                  ],
+                  "customer": null
+                },
+                "flightStatus": {
+                  "statusDesc": "On Time",
+                  "statusColorCode": "GREEN",
+                  "leavinginXMinutes": null,
+                  "delayTime": null
+                },
+                "layOverTime": "0h 0m",
+                "flightInfo": {
+                  "durationTime": "01h 21m",
+                  "carrierTypeCode": "Airbus A319 Passenger"
+                }
+              }
+            ],
+            "flightDistance": "185",
+            "leavingInXDays": "10",
+            "segmentStatus": "HK"
+          }
+        ]
+      }
+    ],
+    "todaysTrips": [
+      {
+        "bookingIdentifier": [
+          {
+            "recordLocatorId": "GDBD2C",
+            "bookingCreationDate": "01NOV",
+            "todayTrip": true,
+            "nextFlightLeavingXHrs": -27,
+            "nextFlightLeavingXDays": -1,
+            "seqNum": null,
+            "ssrCount": 0,
+            "otherAirlinesAvailable": false
+          }
+        ],
+        "passengerItinerarySegments": [
+          {
+            "segmentNum": 1,
+            "marketingFlightSegment": {
+              "carrierCode": "DL",
+              "flightNum": 1791
+            },
+            "flightSegmentId": {
+              "operatingCarrierCode": "DL",
+              "operatingFlightNum": 1791,
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "MSP",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "SJC",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "marketingCarrierCode": "DL",
+              "marketingFlightNum": 1791,
+              "departureDate": "2019-12-01"
+            },
+            "schedules": {
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "MSP",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "SJC",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "departureLocalTs": "2019-12-01T11:35:00Z",
+              "arrivalLocalTs": "2019-12-01T13:47:00Z"
+            },
+            "flightLegs": [
+              {
+                "flightLegId": {
+                  "operatingCarrierCode": "DL",
+                  "operatingFlightNum": 1791,
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "MSP",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "SJC",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "marketingCarrierCode": "DL",
+                  "marketingFlightNum": 1791,
+                  "departureDate": "2019-12-01"
+                },
+                "schedules": {
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "MSP",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "Terminal 1",
+                    "gateId": "F8"
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "SJC",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "Terminal A",
+                    "gateId": "12"
+                  },
+                  "departureLocalTs": "2019-12-01T11:15:00Z",
+                  "arrivalLocalTs": "2019-12-01T13:21:00Z"
+                },
+                "actuals": {
+                  "departureLocalTs": "2019-12-01T11:35:00Z",
+                  "arrivalLocalTs": "2019-12-01T13:47:00Z",
+                  "arrivalDelayMinuteCnt": 26,
+                  "departureDelayMinuteCnt": 20
+                },
+                "departureDelay": {
+                  "delayDesc": null,
+                  "totalDelayMinuteCnt": 25,
+                  "primaryReason": null,
+                  "firstAlternateReason": null,
+                  "secondAlternateReason": null
+                },
+                "cancellation": null,
+                "isCancelled": null,
+                "isDelayed": null,
+                "isDiverted": null,
+                "isReturned": null,
+                "isflightArrived": true,
+                "latestFlightAdvisoryMessageText": null,
+                "tripCompanionInfo": [
+                  {
+                    "name": "STEPHEN NEWMAN OESTERLE",
+                    "nameNumber": "01",
+                    "lastNameNumber": "01",
+                    "ticketNumber": "0062178964655",
+                    "customerAccountType": "MM/DM",
+                    "skyMilesNumber": "6507883236",
+                    "tripStatus": "HOOKED",
+                    "brandPurchased": null,
+                    "brandUpgraded": null,
+                    "upgradeType": null,
+                    "seatNum": "01A",
+                    "ssrTrip": []
+                  }
+                ],
+                "ssrTrip": [],
+                "brandRq": {
+                  "flightSegment": [
+                    {
+                      "originAirportCode": "MSP",
+                      "destAirportCode": "SJC",
+                      "schedDepartLocalTs": "2019-12-01T00:00:00",
+                      "operatingFlightNum": "1791",
+                      "operatingCos": "C",
+                      "marketingFlightNum": "1791",
+                      "marketingCos": "C",
+                      "marketingCarrier": {
+                        "code": "DL",
+                        "name": null,
+                        "connectionCarrier": null
+                      }
+                    }
+                  ],
+                  "customer": null
+                },
+                "flightStatus": {
+                  "statusDesc": null,
+                  "statusColorCode": null,
+                  "leavinginXMinutes": null,
+                  "delayTime": null
+                },
+                "layOverTime": "0h 0m",
+                "flightInfo": {
+                  "durationTime": "04h 06m",
+                  "carrierTypeCode": "Boeing 737-800 Passenger"
+                }
+              }
+            ],
+            "flightDistance": "1571",
+            "arnkSegment": {
+              "arnkIndicator": false,
+              "arrivalPoint": null,
+              "departurePoint": null
+            },
+            "segmentStatus": "HK"
+          },
+          {
+            "segmentNum": 2,
+            "marketingFlightSegment": {
+              "carrierCode": "DL",
+              "flightNum": 1393
+            },
+            "flightSegmentId": {
+              "operatingCarrierCode": "DL",
+              "operatingFlightNum": 1393,
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "SJC",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "MSP",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "marketingCarrierCode": "DL",
+              "marketingFlightNum": 1393,
+              "departureDate": "2019-12-03"
+            },
+            "schedules": {
+              "originAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "SJC",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "destinationAirport": {
+                "cityCode": null,
+                "cityName": null,
+                "airportCode": "MSP",
+                "airportName": null,
+                "countryCode": null,
+                "countryName": null,
+                "stateCode": null,
+                "stateName": null,
+                "timeZone": null,
+                "terminalName": null,
+                "gateId": null
+              },
+              "departureLocalTs": "2019-12-03T13:30:00Z",
+              "arrivalLocalTs": "2019-12-03T19:17:00Z"
+            },
+            "flightLegs": [
+              {
+                "flightLegId": {
+                  "operatingCarrierCode": "DL",
+                  "operatingFlightNum": 1393,
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "SJC",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "MSP",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": null,
+                    "gateId": null
+                  },
+                  "marketingCarrierCode": "DL",
+                  "marketingFlightNum": 1393,
+                  "departureDate": "2019-12-03"
+                },
+                "schedules": {
+                  "originAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "SJC",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "Terminal A",
+                    "gateId": "05"
+                  },
+                  "destinationAirport": {
+                    "cityCode": null,
+                    "cityName": null,
+                    "airportCode": "MSP",
+                    "airportName": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "stateCode": null,
+                    "stateName": null,
+                    "timeZone": null,
+                    "terminalName": "Terminal 1",
+                    "gateId": "G20"
+                  },
+                  "departureLocalTs": "2019-12-03T13:30:00Z",
+                  "arrivalLocalTs": "2019-12-03T19:17:00Z"
+                },
+                "actuals": {
+                  "departureLocalTs": "2019-12-03T13:30:00Z",
+                  "arrivalLocalTs": "2019-12-03T19:17:00Z",
+                  "arrivalDelayMinuteCnt": 0,
+                  "departureDelayMinuteCnt": 0
+                },
+                "departureDelay": {
+                  "delayDesc": null,
+                  "totalDelayMinuteCnt": 0,
+                  "primaryReason": null,
+                  "firstAlternateReason": null,
+                  "secondAlternateReason": null
+                },
+                "cancellation": null,
+                "isCancelled": null,
+                "isDelayed": null,
+                "isDiverted": null,
+                "isReturned": null,
+                "isflightArrived": false,
+                "latestFlightAdvisoryMessageText": null,
+                "tripCompanionInfo": [
+                  {
+                    "name": "STEPHEN NEWMAN OESTERLE",
+                    "nameNumber": "01",
+                    "lastNameNumber": "01",
+                    "ticketNumber": "0062178964655",
+                    "customerAccountType": "MM/DM",
+                    "skyMilesNumber": "6507883236",
+                    "tripStatus": "HOOKED",
+                    "brandPurchased": null,
+                    "brandUpgraded": null,
+                    "upgradeType": null,
+                    "seatNum": "01A",
+                    "ssrTrip": []
+                  }
+                ],
+                "ssrTrip": [],
+                "brandRq": {
+                  "flightSegment": [
+                    {
+                      "originAirportCode": "SJC",
+                      "destAirportCode": "MSP",
+                      "schedDepartLocalTs": "2019-12-03T00:00:00",
+                      "operatingFlightNum": "1393",
+                      "operatingCos": "I",
+                      "marketingFlightNum": "1393",
+                      "marketingCos": "I",
+                      "marketingCarrier": {
+                        "code": "DL",
+                        "name": null,
+                        "connectionCarrier": null
+                      }
+                    }
+                  ],
+                  "customer": null
+                },
+                "flightStatus": {
+                  "statusDesc": "On Time",
+                  "statusColorCode": "GREEN",
+                  "leavinginXMinutes": null,
+                  "delayTime": null
+                },
+                "layOverTime": "0h 0m",
+                "flightInfo": {
+                  "durationTime": "03h 47m",
+                  "carrierTypeCode": "Boeing 737-900 Passenger"
+                }
+              }
+            ],
+            "flightDistance": "1576",
+            "leavingInXDays": "0",
+            "segmentStatus": "HK"
+          }
+        ]
+      }
+    ],
+    "nextFlight": {
+      "deptAirportCode": "SJC",
+      "deptAirportDesc": null,
+      "isDelayed": false,
+      "isCancelled": false,
+      "statusDesc": "On Time",
+      "statusColorCode": "GREEN",
+      "leavinginXMinutes": null,
+      "delayTime": null
+    },
+    "upcomingRemainingPnrs": [
+      {
+        "recordLocatorId": "GZPJYS",
+        "bookingCreationDate": null,
+        "todayTrip": false,
+        "nextFlightLeavingXHrs": 264,
+        "nextFlightLeavingXDays": 11,
+        "seqNum": null,
+        "ssrCount": null,
+        "otherAirlinesAvailable": false
+      },
+      {
+        "recordLocatorId": "G4CT7J",
+        "bookingCreationDate": null,
+        "todayTrip": false,
+        "nextFlightLeavingXHrs": 978,
+        "nextFlightLeavingXDays": 40,
+        "seqNum": null,
+        "ssrCount": null,
+        "otherAirlinesAvailable": false
+      }
+    ],
+    "todaysRemainingPnrs": []
+  }
+}

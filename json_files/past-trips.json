@@ -1,0 +1,133 @@
+{
+  "pastTrips": [
+    {
+      "bookingIdentifier": [
+        {
+          "recordLocatorId": "G4TGM8",
+          "bookingCreationDate": null,
+          "todayTrip": false,
+          "nextFlightLeavingXHrs": 0,
+          "nextFlightLeavingXDays": 0,
+          "seqNum": null,
+          "ssrCount": null,
+          "otherAirlinesAvailable": false
+        }
+      ],
+      "passengerItinerarySegments": [
+        {
+          "schedules": {
+            "originAirport": {
+              "cityCode": null,
+              "cityName": null,
+              "airportCode": "LAX",
+              "airportName": null,
+              "countryCode": null,
+              "countryName": null,
+              "stateCode": null,
+              "stateName": null,
+              "timeZone": null,
+              "terminalName": null,
+              "gateId": null
+            },
+            "destinationAirport": {
+              "cityCode": null,
+              "cityName": null,
+              "airportCode": "SEA",
+              "airportName": null,
+              "countryCode": null,
+              "countryName": null,
+              "stateCode": null,
+              "stateName": null,
+              "timeZone": null,
+              "terminalName": null,
+              "gateId": null
+            },
+            "departureLocalTs": "2019-11-19T00:00:00Z",
+            "arrivalLocalTs": null
+          },
+          "flightLegs": [
+            {
+              "flightLegId": {
+                "operatingCarrierCode": "DL",
+                "operatingFlightNum": null,
+                "originAirport": null,
+                "destinationAirport": null,
+                "marketingCarrierCode": null,
+                "marketingFlightNum": null,
+                "departureDate": null
+              },
+              "schedules": {
+                "originAirport": {
+                  "cityCode": null,
+                  "cityName": null,
+                  "airportCode": "LAX",
+                  "airportName": null,
+                  "countryCode": null,
+                  "countryName": null,
+                  "stateCode": null,
+                  "stateName": null,
+                  "timeZone": null,
+                  "terminalName": null,
+                  "gateId": null
+                },
+                "destinationAirport": {
+                  "cityCode": null,
+                  "cityName": null,
+                  "airportCode": "SEA",
+                  "airportName": null,
+                  "countryCode": null,
+                  "countryName": null,
+                  "stateCode": null,
+                  "stateName": null,
+                  "timeZone": null,
+                  "terminalName": null,
+                  "gateId": null
+                },
+                "departureLocalTs": "2019-11-19T00:00:00Z",
+                "arrivalLocalTs": null
+              },
+              "actuals": {
+                "departureLocalTs": "2019-11-19T00:00:00Z",
+                "arrivalLocalTs": null,
+                "arrivalDelayMinuteCnt": null,
+                "departureDelayMinuteCnt": null
+              },
+              "departureDelay": null,
+              "cancellation": null,
+              "isCancelled": null,
+              "isDelayed": null,
+              "isDiverted": null,
+              "isReturned": null,
+              "isflightArrived": false,
+              "latestFlightAdvisoryMessageText": null,
+              "tripCompanionInfo": [
+                {
+                  "name": "BLACK/QUINTESSAA",
+                  "nameNumber": null,
+                  "lastNameNumber": null,
+                  "ticketNumber": null,
+                  "customerAccountType": null,
+                  "skyMilesNumber": null,
+                  "tripStatus": null,
+                  "brandPurchased": null,
+                  "brandUpgraded": null,
+                  "upgradeType": null,
+                  "seatNum": null,
+                  "ssrTrip": []
+                }
+              ],
+              "ssrTrip": [],
+              "brandRq": null,
+              "flightStatus": null,
+              "layOverTime": null,
+              "flightInfo": null
+            }
+          ],
+          "segmentStatus": "SS"
+        }
+      ]
+    }
+  ]
+}
+
+
